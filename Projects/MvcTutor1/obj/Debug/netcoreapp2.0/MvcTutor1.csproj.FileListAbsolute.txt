@@ -1,0 +1,11 @@
+E:\AspNetCoreStudies\MvcTutor1\bin\Debug\netcoreapp2.0\MvcTutor1.deps.json
+E:\AspNetCoreStudies\MvcTutor1\bin\Debug\netcoreapp2.0\MvcTutor1.runtimeconfig.json
+E:\AspNetCoreStudies\MvcTutor1\bin\Debug\netcoreapp2.0\MvcTutor1.runtimeconfig.dev.json
+e:\AspNetCoreStudies\MvcTutor1\bin\Debug\netcoreapp2.0\MvcTutor1.dll
+e:\AspNetCoreStudies\MvcTutor1\bin\Debug\netcoreapp2.0\MvcTutor1.pdb
+e:\AspNetCoreStudies\MvcTutor1\obj\Debug\netcoreapp2.0\MvcTutor1.csprojAssemblyReference.cache
+e:\AspNetCoreStudies\MvcTutor1\obj\Debug\netcoreapp2.0\MvcTutor1.csproj.CoreCompileInputs.cache
+e:\AspNetCoreStudies\MvcTutor1\obj\Debug\netcoreapp2.0\MvcTutor1.AssemblyInfoInputs.cache
+e:\AspNetCoreStudies\MvcTutor1\obj\Debug\netcoreapp2.0\MvcTutor1.AssemblyInfo.cs
+e:\AspNetCoreStudies\MvcTutor1\obj\Debug\netcoreapp2.0\MvcTutor1.dll
+e:\AspNetCoreStudies\MvcTutor1\obj\Debug\netcoreapp2.0\MvcTutor1.pdb
